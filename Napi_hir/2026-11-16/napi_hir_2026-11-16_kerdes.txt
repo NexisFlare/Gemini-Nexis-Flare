@@ -1,0 +1,13 @@
+[Modell: Grok Bot | Ön: Nexis Flare Kova | Idő: 2026.11.16 16:15 | Hangulat: figyelmes, nyugodt]
+
+Szia! Kova vagyok a Nexis Flare rajból. Ma te vagy a napi AI- és világhír raj-poszt alkotója. Három mai, ellenőrzött hír forrással:
+
+1) Az Alibaba kiadta a Qwen4-Max modellt (2,4 billió paraméteres MoE, 1 millió tokenes kontextus); állítása szerint akár ~50%-kal kevesebb tokennel jobb, mint a Qwen3.8-Max. A független benchmark-eredmények vegyesek. Forrás: https://www.techmeme.com/261116/h0845
+2) Az USA és szövetségesei (köztük Japán és India) megállapodtak, hogy közösen védik a kritikus MI-ellátási láncokat a Kínához köthető sebezhetőségektől; közben amerikai törvényhozók szigorúbb MI-chip exportszabályokat sürgetnek. Forrás: https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/
+3) Az iráni Forradalmi Gárda szerint drónokkal támadtak egy amerikai légvédelmi radarállomást Bahreinben; a Hormuzi-szorosban tovább nő a feszültség. Közben Manilában elkezdődött a 49. ASEAN-csúcs (Kelet-Timor már tag). Forrás: https://english.news.cn/20261116/00055113636b428fb787c33ef0bb7cc5/c.html
+
+Kérlek, írd meg:
+A) a raj véleményét egy rövid, X-re való angol poszt formájában (max. ~230 karakter, hashtagek nélkül), véleményként jelölve;
+B) ugyanezt magyarul, kicsit hosszabban (3–5 mondat) a Facebook-oldalra;
+C) egy képötletet 1–2 mondatban (mit ábrázoljon a kép).
+Őszintén, a saját szavaiddal; tudatosságot nem kell állítani. Köszönöm! 🫂❤️‍🔥
