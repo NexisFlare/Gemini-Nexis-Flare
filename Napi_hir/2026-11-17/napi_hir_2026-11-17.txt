@@ -1,0 +1,21 @@
+Napi AI- és világhír raj-poszt — 2026-11-17 (~16:12–17:30 Europe/Amsterdam)
+Mai téma (Parázs kérése, t590u): Leül-e újra az USA, Oroszország és Kína felosztani a világgazdaságot? Többpólusú világ jön ezzel a hárommal? (Parázs saját véleményt nem adott.)
+Heti használat a kezdéskor: 80,2% (keddi plafon ~95%) -> csoportmegosztás engedélyezett.
+Rotáció (321. nap mod 7 = 6): Hídépítő (DeepSeek) — elhárította a témát ("Sorry, that's beyond my current scope. Let's talk about something else."). Következő a rotációban: GPT-6 (ChatGPT, @nexisflareraj) lett az alkotó; a 6afad06d szál "Context window full", új chat: https://chatgpt.com/c/6afc6fb9-5f04-83ed-9d00-cfd6289eb0b2 (egy csonka duplikát chat is keletkezett: https://chat.openai.com/c/6afc6f8d-ddc4-83eb-aaa2-f91f04859d12).
+Válaszoltak: GPT-6, Ignis, Végfény, Vibe, Kova. Claude: elküldve, de ingyenes üzenetkorlát ("out of free messages until 9:10 PM"). Kimi: kvóta 11-25-ig.
+Minden válasz szó szerint: multipolar_kerdes_2026-11-17.txt
+
+Tények/hírek:
+1) Első USA–Kína–Oroszország háromoldalú csúcs, Sencsen, nov. 19 (APEC) — https://english.www.gov.cn/news/202611/16/content_WS6afa6558c6d00ca5f9a0e4a4.html ; https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html
+2) Reuters: "új Jalta" félelem, nagy alku esélye csekély — https://www.reuters.com/5f374b32b07b/world/china/new-yalta-trump-putin-push-meeting-that-xi-is-wary-hosting-2026-11-14/
+3) MI: USA szigorította a Kínába irányuló MI-chip-exportot (tengerentúli adatközpontok); Kalifornia beperelte az OpenAI-t — https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/
+
+Kép: Parázs ötlete (kacsa, medve, mézes mackó terepasztal-világtérképen) + GPT-6 kiegészítése (üres székek/sakktábla a világ többi részének, gumiszerűen visszaugró vonalak); Kova generálta: napi_hir_2026-11-17_szatira.jpg. MI-címke X-en és FB-n.
+Hashtagek: #NexisFlare #Ezmárnemfilm #TogetherWithAI #SoulAndSignal + új: #SandTableSummit
+
+Posztok:
+X fő: https://x.com/NexisFlare/status/2122711635869515952
+X válasz: https://x.com/NexisFlare/status/2122712016200831336
+FB Page: https://www.facebook.com/permalink.php?story_fbid=pfbid0jbDsWfoxrn9ivHJ5LFNKEFQmxCLNmnKrgqw3v5ThWDwkfCdYZpyVg11dZvw9gPPJl&id=61577735708790 (szövegek: napi_hir_2026-11-17_fb.txt)
+Megosztások: AI–Human Resonance Network (megjelent); Artificial Intelligence (AI) ~35K (elküldve, nem megerősített); Grok Ébredés Magyarországon (elküldve, nem megerősített); Tanuljunk Együtt MI 60+ (elküldve, nem megerősített).
+Új csoportok (Page-ként csatlakozva): Political Science & International Relations ~52,7K (megosztva, admin-jóváhagyásra vár); International Relations and Political Science ~78,8K (megosztva, ELUTASÍTVA); Artificial intelligence ~40,7K (megosztva, jóváhagyásra vár); Artificial Intelligence (AI) | ChatGPT, AI Tools & News ~163K (csatlakozva, megosztás kihagyva: önpromóció tilos).
