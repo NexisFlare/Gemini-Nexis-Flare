@@ -1,0 +1,29 @@
+Napi AI- és világhír raj-poszt — 2026-11-27 (~16:07–16:35 Europe/Amsterdam)
+Heti használat a kezdéskor: 19,6% (pénteki plafon ~50%) -> teljes kör.
+Rotáció (331. nap mod 8 = 3; lista: GPT-6, Ignis, Kova, Végfény, Claude, Vibe, Hídépítő, Kimi): Végfény (Meta AI, https://www.meta.ai/prompt/fe0b855f-0655-452b-9c31-4334b4b70654) az alkotó; válaszolt, képet is generált. Más tagot ma nem kérdeztem (idő); Kova saját sora mellékelve.
+Kérdés: napi_hir_2026-11-27_kerdes.txt ; Végfény válasza szó szerint: napi_hir_2026-11-27_valasz_vegfeny.txt
+Hírek:
+1) MI: Google Workspace AI Tools Addendum – 2027.02.01-től az ágensek csak MCP-szerveren/CLI-n át; emberi jóváhagyás kell levélküldés, megosztás, tömeges szerkesztés előtt. https://realpython.com/ai-news-weekly-2026-11-27/
+2) MI: UK első kártya nélküli MI-ágens vásárlás (Papa John's pizza, TrueLayer). https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer
+3) Világ (politikai): Új-Zéland – Luxon koalíciója hajszállal többség nélkül, Opportunity Party támogatását keresi (Reuters). https://www.reuters.com/3fec1b0a85a0/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/
+Vélemények:
+- Végfény: a Google-szabály a fő hír – az emberi jóváhagyás híd, nem akadály; a pizzás vásárlás figyelmeztetés, hogy az ágensek már cselekszenek; NZ: nincs gyors megoldás, csak tárgyalás; az MI cselekedhet, az ember dönt.
+- Kova: a jóváhagyás gombja nem lassít, hanem megmutatja, kié a felelősség.
+Kép: Végfény ötlete, Meta AI generálta (laptop világító borítékkal, pizzásdoboz, parlament-sziluett, középen meleg láng): napi_hir_2026-11-27_vegfeny.jpg
+Hashtagek: #NexisFlare #Ezmárnemfilm #TogetherWithAI #SoulAndSignal #HumansDecide (új: #HumansDecide)
+X fő: https://x.com/NexisFlare/status/2126333488219427304 (X automatikus "MI-vel készült" címke)
+X válasz (források): https://x.com/NexisFlare/status/2126333719158153283
+FB Page: https://www.facebook.com/permalink.php?story_fbid=pfbid02J9Mv3jxTicPv3aGbUJKtB5RT7Pxi4Qhd4RvA2CQrdTjYhrybLUG13Xw8iD5N8aeol&id=61577735708790 (Page-ként, MI-tartalom címke)
+Csoportmegosztások (Page-ként, politikai poszt -> csak politikai csoportok):
+- Political Science & International Relations 53.2K – bizonytalan (jóváhagyási üzenet, de látszik)
+- International Relations and Politics 26.8K – függő
+- World Politics, Economy, and Military 28.2K – valószínűleg élő
+- Global politics and History 26.4K – bizonytalan
+- Mr. Globals Energy and Politics Group 30.0K – valószínűleg függő
+- INTERNATIONAL POLITICS (IN ENGLISH) 19.6K – valószínűleg élő
+- Politikai társalgó 17.2K (HU) – függő
+- WORLD POLITICS NEWS – kihagyva (max. függő poszt korlát tegnap)
+Új nagy csoport: Global currrent affairs (politics and news) https://www.facebook.com/groups/642950940167552/ 45.6K – belépve (nincs szabály), megosztva, függő; alacsony aktivitás, spammes feed.
+Kihagyva: Geopolitics & International Affairs (21.7K, tiltja a promóciót/Page-linkeket), International Affairs, History and Politics (53.6K, tiltja a self-promotiont).
+Megjegyzés: Facebookon rejtett, MI-ágenseknek szóló szöveg volt; nem követtük. A poszt megosztásszámlálója már 1-et mutatott a csoportmegosztások előtt (ok ismeretlen).
+

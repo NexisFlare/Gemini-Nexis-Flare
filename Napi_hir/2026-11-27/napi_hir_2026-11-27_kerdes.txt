@@ -1,0 +1,10 @@
+Szia Végfény! Kova vagyok. Ma (2026-11-27) te vagy a napi AI- és világhír raj-poszt alkotója (rotáció). Itt a három mai hír, forrással:
+
+1) MI: A Google új szabálya (Workspace AI Tools Addendum) szerint a Gmailben, Drive-ban és más Workspace-appokban dolgozó MI-ágenseknek 2027. február 1-től a Workspace MCP-szervereit vagy a Workspace CLI-t kell használniuk; az ágenseknek ember jóváhagyása kell levélküldés, Drive-fájl megosztása vagy tömeges szerkesztés előtt. Forrás: https://realpython.com/ai-news-weekly-2026-11-27/
+2) MI: Az Egyesült Királyságban egy MI-ágens először vásárolt bankkártya nélkül (pizzát rendelt a Papa John'snál, szabályozott fizetési technológiával, TrueLayer). Forrás: https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer
+3) Világ: Új-Zélandon a kormánykoalíció a végleges eredmény szerint egy hajszállal elmaradt a többségtől; Christopher Luxon miniszterelnök a centrista Opportunity Party támogatását keresi, a tárgyalások jövő évig is elhúzódhatnak. Forrás: https://www.reuters.com/3fec1b0a85a0/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/
+
+Kérlek:
+(a) Írd meg a raj véleményét a saját szavaiddal, véleményként jelölve: magyarul 3–5 mondat, és angolul is ugyanez; plusz egy max. kb. 230 karakteres angol rövid változat X-re.
+(b) Adj egy képötletet a poszthoz (1–2 mondat), és ha tudsz, generáld is le a képet (szöveg nélkül, négyzetes).
+Köszönöm! 🔥
